@@ -1,0 +1,17 @@
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\bin\Debug\robot.dll
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\bin\Debug\robot.pdb
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\bin\Debug\robot.dll.mdb
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\bin\Debug\robot.robot.apk
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\bin\Debug\robot.robot-Signed.apk
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\robot.dll
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\robot.pdb
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\android\bin\robot.robot.apk
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\res\layout\main.xml
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\res\values\strings.xml
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\R.cs.flag
+C:\Users\MuhammedAbdullah\Documents\Projects\robot\robot\obj\Debug\uploadflags.txt
